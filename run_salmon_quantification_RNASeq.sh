@@ -1,4 +1,7 @@
 #!/bin/bash
+## This needs to be run from the directory where the individual folder containing fastq for each sample is 
+## This code was run inside a conda environment with salmon installed 
+
 
 
 for dir in `ls`
